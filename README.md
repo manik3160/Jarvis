@@ -25,5 +25,5 @@ pip install openai pyttsx3 SpeechRecognition
 ## ▶️ Usage
 Run the script:
 ``` bash
-python jarvis.py
+python main.py
 ```
